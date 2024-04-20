@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Portfolio**
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **React**
 
 - 👯 I’m looking to collaborate on **Web projects**
 

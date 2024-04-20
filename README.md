@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working on **Portfolio**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Front End Web Development**
 
-- 👯 I’m looking to collaborate on **Web projects**
+- 👯 I’m looking to collaborate on **Technical projects**
 
 - 🤝 I’m looking for help with **passionate Developers**
 
-- 💬 Ask me about **Frond end web developement**
+- 💬 Ask me about **Technical Stuff**
 
 - 📫 How to reach me **mohandossvelmurugan21@gmail.com**
 

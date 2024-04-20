@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **passionate Developers**
 
-- 💬 Ask me about **Frond end developement**
+- 💬 Ask me about **Frond end web developement**
 
 - 📫 How to reach me **mohandossvelmurugan21@gmail.com**
 

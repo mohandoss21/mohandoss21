@@ -19,7 +19,7 @@
 <p align="left">
 <a href="https://twitter.com/mohandoss velmurugan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mohandoss velmurugan" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mohandoss-velmurugan-061926251" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohandoss-velmurugan-061926251" height="30" width="40" /></a>
-<a href="https://instagram.com/dossv_07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dossv_07" height="30" width="40" /></a>
+
 <a href="https://www.hackerrank.com/mohandoss1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mohandoss1" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/mohandoss_velmurugan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mohandoss_velmurugan" height="30" width="40" /></a>
 </p>
